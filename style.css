@@ -4,7 +4,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vmin;
+    height: 100vh;
     background-color: hsl(217, 54%, 11%);
     font-family: Outfit, Arial;
     margin: 0px;
