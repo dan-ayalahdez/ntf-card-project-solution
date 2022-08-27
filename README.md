@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/solution-for-the-nft-card-project-Z6cf2CD6Ti)
-- Live Site URL: [live Site](#)
+- Live Site URL: [live Site](https://james-alderson.github.io/Fork__dan-ayalahdez--NPCC/)
 
 ## My process
 
