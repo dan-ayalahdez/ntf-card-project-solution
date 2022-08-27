@@ -23,11 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/screenshots/mobile-design.png)
+![](./assets/screenshots/desktop-design.png)
 
 ### Links
 
-- Solution URL: [Solution](#)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/solution-for-the-nft-card-project-Z6cf2CD6Ti)
 - Live Site URL: [live Site](#)
 
 ## My process
@@ -37,9 +38,8 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
 
-- Frontend Mentor - [@yourusername](#)
+- Frontend Mentor - [@dan-ayalahdez](https://www.frontendmentor.io/profile/dan-ayalahdez)
