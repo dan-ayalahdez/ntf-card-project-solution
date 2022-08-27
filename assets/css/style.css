@@ -1,0 +1,108 @@
+/* general */
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: hsl(217, 54%, 11%);
+    font-family: Outfit, Arial;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* main styles */
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+    background-color:hsl(216, 50%, 16%) ;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+.image-container{
+    height: 280px;
+    width: 280px;
+    padding-bottom: 20px;
+
+}
+.nft-image{
+    height: 100%;
+    border-radius: 10px;
+}
+
+.ntf-info{
+    display: inline-block;
+    width: 280px;
+}
+
+.ntf-info .name{
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+
+.ntf-info .description{
+    color: hsl(218, 15%, 50%);
+    font-weight: 300;
+    line-height: 30px;
+    padding-bottom: 10px;
+}
+
+.price-n-time{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+
+.price-n-time .price{
+    display: flex;
+    align-items: center;
+    color: hsl(178, 100%, 50%);
+}
+
+.price-n-time .time{
+    display: flex;
+    align-items: center;
+    color: hsl(218, 15%, 50%);
+}
+
+.price-n-time .clock-icon, .eth-icon {
+    padding-right: 10px;
+}
+
+.line{
+    border-style: solid;
+    border-color:hsl(218, 15%, 50%);
+    border-width: 1px;
+}
+.creator{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    color: hsl(218, 15%, 50%);;
+}
+
+.creator .avatar{
+    height: 40px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 30px;
+    margin-right: 20px;
+}
+
+.creator .creator-name{
+    color: white;
+    margin-left: 5px;
+}
+
+
+/* footer */
+.attribution { 
+    font-size: 11px; 
+    text-align: center; }
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); }
